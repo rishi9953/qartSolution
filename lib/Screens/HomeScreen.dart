@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
-import 'package:http/http.dart';
 import 'package:provider/provider.dart';
 import 'package:qartsolution/Constants/constants.dart';
 import 'package:qartsolution/Constants/databaseService.dart';
